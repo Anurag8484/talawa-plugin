@@ -333,7 +333,6 @@ build
 .tern-port
 
 # Stores VSCode versions used for testing VSCode extensions
-.vscode-test
 
 # yarn v2
 .yarn/cache
@@ -405,7 +404,6 @@ tags
 [._]*.un~
 
 ### VisualStudioCode ###
-.vscode/*
 
 # Local History for Visual Studio Code
 .history/
@@ -845,3 +843,6 @@ plugin-zips/
 
 # FNM
 .node-version
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
